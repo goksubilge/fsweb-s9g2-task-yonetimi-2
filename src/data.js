@@ -34,7 +34,7 @@ export const initialTasks = [
     description:
       "Unutma, en iyi öğretmen tecrübedir. Çok takılmadığın sürece konu tekrarı yapma. Sadece takıldığın yerleri araştır.",
     people: ["ömer", "emre"],
-    deadline: "2023-01-31",
+    deadline: "2023-07-31",
     status: "yapılacak",
   },
 ];
